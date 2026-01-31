@@ -8,6 +8,7 @@ A simplified Neovim plugin for AI-assisted coding powered by **Gemini CLI**.
 - ✏️ **Visual edit**: Modify selected code with AI assistance
 - 💬 **Ask**: Ask questions about your code with context
 - 🌍 **Multi-language**: Treesitter support for Lua, Python, JavaScript, TypeScript, Go, Rust, C, C++
+-  Its a prototype, adding more features with better tweaks  ;)
 
 ## Requirements
 
